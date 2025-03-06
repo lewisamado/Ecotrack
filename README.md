@@ -24,9 +24,3 @@ El propósito es generar conciencia ambiental y promover acciones concretas que 
 - *Base de Datos:* MongoDB / PostgreSQL  
 - *Autenticación:* Firebase / Auth0  
 
-## Instalación  
-```bash
-git clone https://github.com/tuusuario/EcoTrack.git
-cd EcoTrack
-npm install
-npm start
