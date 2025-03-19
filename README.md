@@ -108,13 +108,13 @@ Puede exportar un informe de su impacto ecológico.
 Opción para cerrar sesión o eliminar cuenta si lo desea.
 
 
-Resumen del Flujo
+Resumen del Flujo:
 
 1️⃣ Registro/Login → 2️⃣ Dashboard → 3️⃣ Ingreso de Datos → 4️⃣ Recomendaciones y Retos → 5️⃣ Comunidad → 6️⃣ Configuración/Cierre de Sesión
 
 ## Tecnologías Utilizadas  
-- *Frontend:* React.js / Vue.js  
+- *Frontend:* React.js  
 - *Backend:* Node.js con Express  
-- *Base de Datos:* MongoDB / PostgreSQL  
+- *Base de Datos:* MongoDB  
 - *Autenticación:* Firebase / Auth0  
 
