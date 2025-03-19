@@ -29,6 +29,7 @@ El usuario accede a la página web.
 Se registra con email y contraseña o con Google/Facebook.
 Completa un formulario inicial con datos básicos (país, tipo de vivienda, hábitos de consumo).
 Es redirigido al dashboard principal.
+
 2️⃣ Dashboard Principal
 📌 Objetivo: Mostrar el estado actual de la huella de carbono del usuario.
 
@@ -40,6 +41,7 @@ El usuario puede acceder a opciones como:
 📊 Más detalles sobre su impacto.
 🏆 Desafíos y metas personalizadas.
 🔍 Recomendaciones para reducir su huella.
+
 3️⃣ Cálculo y Seguimiento de la Huella de Carbono
 📌 Objetivo: Permitir al usuario registrar su consumo para un cálculo preciso.
 
@@ -51,6 +53,7 @@ El usuario ingresa información sobre:
 🍽️ Hábitos de compra y alimentación.
 EcoTrack recalcula la huella de carbono en tiempo real.
 El usuario puede visualizar su progreso y comparación con promedios globales.
+
 4️⃣ Recomendaciones y Desafíos
 📌 Objetivo: Incentivar al usuario a mejorar su impacto ambiental.
 
@@ -61,6 +64,7 @@ Basado en sus datos, EcoTrack sugiere:
 🚀 Retos semanales (ej. usar bicicleta en lugar de auto).
 El usuario puede aceptar desafíos y recibir puntos y recompensas.
 Se muestra un ranking con amigos y la comunidad para motivación.
+
 5️⃣ Comunidad e Interacción
 📌 Objetivo: Fomentar la participación y el intercambio de experiencias.
 
@@ -69,6 +73,7 @@ Flujo:
 El usuario puede compartir sus logros en redes sociales.
 Puede participar en foros o grupos de discusión sobre sostenibilidad.
 Las empresas pueden crear campañas ecológicas y patrocinar desafíos.
+
 6️⃣ Configuración y Cierre de Sesión
 📌 Objetivo: Permitir ajustes personalizados.
 
@@ -77,6 +82,7 @@ Flujo:
 El usuario puede modificar su perfil y preferencias de notificación.
 Puede exportar un informe de su impacto ecológico.
 Opción para cerrar sesión o eliminar cuenta si lo desea.
+
 Resumen del Flujo
 1️⃣ Registro/Login → 2️⃣ Dashboard → 3️⃣ Ingreso de Datos → 4️⃣ Recomendaciones y Retos → 5️⃣ Comunidad → 6️⃣ Configuración/Cierre de Sesión
 
