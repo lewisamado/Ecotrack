@@ -20,8 +20,9 @@ El propósito es generar conciencia ambiental y promover acciones concretas que 
 
 
 ## Flujo del proyecto
-1️⃣ Inicio y Registro
-📌 Objetivo: Permitir el acceso a la plataforma y recopilar datos iniciales.
+1️ Inicio y Registro
+
+Objetivo: Permitir el acceso a la plataforma y recopilar datos iniciales.
 
 Flujo:
 
@@ -34,8 +35,9 @@ Completa un formulario inicial con datos básicos (país, tipo de vivienda, háb
 Es redirigido al dashboard principal.
 
 
-2️⃣ Dashboard Principal
-📌 Objetivo: Mostrar el estado actual de la huella de carbono del usuario.
+2️ Dashboard Principal
+
+Objetivo: Mostrar el estado actual de la huella de carbono del usuario.
 
 Flujo:
 
@@ -43,49 +45,52 @@ El usuario ve su huella de carbono calculada a partir de los datos ingresados.
 Se presentan gráficos con su impacto ambiental (energía, transporte, consumo).
 El usuario puede acceder a opciones como:
 
-📊 Más detalles sobre su impacto.
+ Más detalles sobre su impacto.
 
-🏆 Desafíos y metas personalizadas.
+ Desafíos y metas personalizadas.
 
-🔍 Recomendaciones para reducir su huella.
+ Recomendaciones para reducir su huella.
 
 
-3️⃣ Cálculo y Seguimiento de la Huella de Carbono
-📌 Objetivo: Permitir al usuario registrar su consumo para un cálculo preciso.
+3️ Cálculo y Seguimiento de la Huella de Carbono
+
+Objetivo: Permitir al usuario registrar su consumo para un cálculo preciso.
 
 Flujo:
 
 El usuario ingresa información sobre:
 
-🔌 Consumo de electricidad y agua.
+ Consumo de electricidad y agua.
 
-🚗 Tipo y frecuencia de transporte utilizado.
+ Tipo y frecuencia de transporte utilizado.
 
-🍽️ Hábitos de compra y alimentación.
+ Hábitos de compra y alimentación.
 
 EcoTrack recalcula la huella de carbono en tiempo real.
 
 El usuario puede visualizar su progreso y comparación con promedios globales.
 
 
-4️⃣ Recomendaciones y Desafíos
-📌 Objetivo: Incentivar al usuario a mejorar su impacto ambiental.
+4️ Recomendaciones y Desafíos
+
+Objetivo: Incentivar al usuario a mejorar su impacto ambiental.
 
 Flujo:
 
 Basado en sus datos, EcoTrack sugiere:
 
-✅ Pequeños cambios (ej. reducir consumo de electricidad).
+ Pequeños cambios (ej. reducir consumo de electricidad).
 
-🚀 Retos semanales (ej. usar bicicleta en lugar de auto).
+ Retos semanales (ej. usar bicicleta en lugar de auto).
 
 El usuario puede aceptar desafíos y recibir puntos y recompensas.
 
 Se muestra un ranking con amigos y la comunidad para motivación.
 
 
-5️⃣ Comunidad e Interacción
-📌 Objetivo: Fomentar la participación y el intercambio de experiencias.
+5️ Comunidad e Interacción
+
+Objetivo: Fomentar la participación y el intercambio de experiencias.
 
 Flujo:
 
@@ -96,8 +101,9 @@ Puede participar en foros o grupos de discusión sobre sostenibilidad.
 Las empresas pueden crear campañas ecológicas y patrocinar desafíos.
 
 
-6️⃣ Configuración y Cierre de Sesión
-📌 Objetivo: Permitir ajustes personalizados.
+6️ Configuración y Cierre de Sesión
+
+Objetivo: Permitir ajustes personalizados.
 
 Flujo:
 
@@ -110,7 +116,7 @@ Opción para cerrar sesión o eliminar cuenta si lo desea.
 
 Resumen del Flujo:
 
-1️⃣ Registro/Login → 2️⃣ Dashboard → 3️⃣ Ingreso de Datos → 4️⃣ Recomendaciones y Retos → 5️⃣ Comunidad → 6️⃣ Configuración/Cierre de Sesión
+1️ Registro/Login → 2️ Dashboard → 3️ Ingreso de Datos → 4️ Recomendaciones y Retos → 5️ Comunidad → 6️ Configuración/Cierre de Sesión
 
 ## Tecnologías Utilizadas  
 - *Frontend:* React.js  
